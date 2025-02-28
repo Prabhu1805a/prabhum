@@ -4,15 +4,15 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=div, initial-scale=1.0">
-	<meta name="title" content="3D Cube - For Crush | Aoudumber Bade">
+	<meta name="title" content="3D Cube - For Crush | PRABHU">
     <meta name="github" content="https://github.com/Aoudumber-Bade">
 	<link rel="stylesheet" href="./css/program.css">
-	<title>3D Cube - For Crush | Aoudumber Bade</title>
+	<title>3D Cube - For Crush | PRABHU</title>
 </head>
 
 <body>
 	<div class="title">
-		ARUL MAMS 💗
+		P 💗 M
 	</div>
 
 	<div class="cube">
@@ -68,8 +68,8 @@
 	</div>
 
 	<div id="copy">
-		<p class="text-center text-white text-sm">OG Creator <a
-			href="https://www.instagram.com/aoudumber.dev/reels/#">@aoudumber.dev</a></p>
+		<p class="text-center text-white text-sm">PRABHU Creator <a
+			
 	  </div>
 </body>
 
